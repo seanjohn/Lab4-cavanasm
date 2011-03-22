@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Expedia">
+</Property><Property Name="Solution File" Value="C:\Users\cavanasm\Desktop\Lab4-AdvancedUnitTesting-Code\Expedia.sln">
+</Property><Property Name="User Options File" Value="C:\Users\cavanasm\Desktop\Lab4-AdvancedUnitTesting-Code\Expedia.suo">
+</Property><Property Name="Date" Value="Friday, March 18, 2011">
+</Property><Property Name="Time" Value="15:29 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Expedia.sln" Description="File successfully backed up as C:\Users\cavanasm\Desktop\Lab4-AdvancedUnitTesting-Code\Backup\Expedia.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Expedia.suo" Description="File successfully backed up as C:\Users\cavanasm\Desktop\Lab4-AdvancedUnitTesting-Code\Backup\Expedia.suo">
+</Event><Event ErrorLevel="0" Project="Expedia" Source="Expedia.csproj" Description="Project file successfully backed up as C:\Users\cavanasm\Desktop\Lab4-AdvancedUnitTesting-Code\Backup\Expedia.csproj">
+</Event><Event ErrorLevel="0" Project="Expedia" Source="User.cs" Description="File successfully backed up as C:\Users\cavanasm\Desktop\Lab4-AdvancedUnitTesting-Code\Backup\User.cs">
+</Event><Event ErrorLevel="0" Project="Expedia" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Users\cavanasm\Desktop\Lab4-AdvancedUnitTesting-Code\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Expedia" Source="Car.cs" Description="File successfully backed up as C:\Users\cavanasm\Desktop\Lab4-AdvancedUnitTesting-Code\Backup\Car.cs">
+</Event><Event ErrorLevel="0" Project="Expedia" Source="Flight.cs" Description="File successfully backed up as C:\Users\cavanasm\Desktop\Lab4-AdvancedUnitTesting-Code\Backup\Flight.cs">
+</Event><Event ErrorLevel="0" Project="Expedia" Source="Booking.cs" Description="File successfully backed up as C:\Users\cavanasm\Desktop\Lab4-AdvancedUnitTesting-Code\Backup\Booking.cs">
+</Event><Event ErrorLevel="0" Project="Expedia" Source="Hotel.cs" Description="File successfully backed up as C:\Users\cavanasm\Desktop\Lab4-AdvancedUnitTesting-Code\Backup\Hotel.cs">
+</Event><Event ErrorLevel="0" Project="Expedia" Source="ServiceLocator.cs" Description="File successfully backed up as C:\Users\cavanasm\Desktop\Lab4-AdvancedUnitTesting-Code\Backup\ServiceLocator.cs">
+</Event><Event ErrorLevel="0" Project="Expedia" Source="Discount.cs" Description="File successfully backed up as C:\Users\cavanasm\Desktop\Lab4-AdvancedUnitTesting-Code\Backup\Discount.cs">
+</Event><Event ErrorLevel="0" Project="Expedia" Source="IDatabase.cs" Description="File successfully backed up as C:\Users\cavanasm\Desktop\Lab4-AdvancedUnitTesting-Code\Backup\IDatabase.cs">
+</Event><Event ErrorLevel="0" Project="Expedia" Source="Expedia.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Expedia" Source="Expedia.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ExpediaTest" Source="ExpediaTest\ExpediaTest.csproj" Description="Project file successfully backed up as C:\Users\cavanasm\Desktop\Lab4-AdvancedUnitTesting-Code\Backup\ExpediaTest\ExpediaTest.csproj">
+</Event><Event ErrorLevel="0" Project="ExpediaTest" Source="ExpediaTest\UserTest.cs" Description="File successfully backed up as C:\Users\cavanasm\Desktop\Lab4-AdvancedUnitTesting-Code\Backup\ExpediaTest\UserTest.cs">
+</Event><Event ErrorLevel="0" Project="ExpediaTest" Source="ExpediaTest\BookingTest.cs" Description="File successfully backed up as C:\Users\cavanasm\Desktop\Lab4-AdvancedUnitTesting-Code\Backup\ExpediaTest\BookingTest.cs">
+</Event><Event ErrorLevel="0" Project="ExpediaTest" Source="ExpediaTest\CarTest.cs" Description="File successfully backed up as C:\Users\cavanasm\Desktop\Lab4-AdvancedUnitTesting-Code\Backup\ExpediaTest\CarTest.cs">
+</Event><Event ErrorLevel="0" Project="ExpediaTest" Source="ExpediaTest\FlightTest.cs" Description="File successfully backed up as C:\Users\cavanasm\Desktop\Lab4-AdvancedUnitTesting-Code\Backup\ExpediaTest\FlightTest.cs">
+</Event><Event ErrorLevel="0" Project="ExpediaTest" Source="ExpediaTest\HotelTest.cs" Description="File successfully backed up as C:\Users\cavanasm\Desktop\Lab4-AdvancedUnitTesting-Code\Backup\ExpediaTest\HotelTest.cs">
+</Event><Event ErrorLevel="0" Project="ExpediaTest" Source="ExpediaTest\ServiceLocatorTest.cs" Description="File successfully backed up as C:\Users\cavanasm\Desktop\Lab4-AdvancedUnitTesting-Code\Backup\ExpediaTest\ServiceLocatorTest.cs">
+</Event><Event ErrorLevel="0" Project="ExpediaTest" Source="ExpediaTest\DiscountTest.cs" Description="File successfully backed up as C:\Users\cavanasm\Desktop\Lab4-AdvancedUnitTesting-Code\Backup\ExpediaTest\DiscountTest.cs">
+</Event><Event ErrorLevel="0" Project="ExpediaTest" Source="ExpediaTest\ObjectMother.cs" Description="File successfully backed up as C:\Users\cavanasm\Desktop\Lab4-AdvancedUnitTesting-Code\Backup\ExpediaTest\ObjectMother.cs">
+</Event><Event ErrorLevel="0" Project="ExpediaTest" Source="ExpediaTest\ExpediaTest.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ExpediaTest" Source="ExpediaTest\ExpediaTest.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Expedia.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Expedia.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Expedia" Source="Expedia.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ExpediaTest" Source="ExpediaTest\ExpediaTest.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
